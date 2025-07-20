@@ -1,7 +1,6 @@
 # Vidly - Movie Rental Store
 
-**Vidly** is a web-based movie rental store application built using the **ASP.NET MVC 5 Framework**. It demonstrates clean separation of concerns using the MVC architecture and showcases how to build scalable, maintainable, and data-driven web applications on the .NET stack.
-
+**Vidly** is a web-based movie rental store application built using the **ASP.NET MVC 5 Framework**. 
 ---
 
 ## Tech Stack
